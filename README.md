@@ -1,7 +1,11 @@
-# Production planning under demand and endogenous supply uncertainty
-This archive is distributed in association with the INFORMS Journal on Computing under the MIT License.
+[![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper *Production planning under demand and endogenous supply uncertainty*.
+# Production planning under demand and endogenous supply uncertainty
+
+This archive is distributed in association with the INFORMS Journal on Computing under the MIT [License](LICENSE).
+
+The software and data in this repository are a snapshot of the software and data that were used in the research reported on in the paper
+[Production planning under demand and endogenous supply uncertainty](https://doi.org/10.1287/ijoc.2023.0067) by M. Hewitt and G. Pantuso.
 
 ## Cite
 
