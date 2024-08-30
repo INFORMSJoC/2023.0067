@@ -1,1 +1,2 @@
-Michael Hewitt <mhewitt3@luc.edu> and Giovanni Pantuso <gp@math.ku.dk>
+Michael Hewitt <mhewitt3@luc.edu>
+Giovanni Pantuso <gp@math.ku.dk>
